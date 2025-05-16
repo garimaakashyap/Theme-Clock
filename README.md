@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yourusername.github.io/theme-clock/">🌐 Live Demo</a> |
+  <a href="https://garimaakashyap.github.io/Theme-Clock/">🌐 Live Demo</a> |
   <a href="#features">✨ Features</a> |
   <a href="#tech-stack">🛠️ Tech Stack</a> |
   <a href="#getting-started">🚀 Getting Started</a> |
@@ -38,7 +38,7 @@ The **Theme Clock** is a modern and minimalistic web clock that displays the cur
 
 ## 🖼️ Demo Preview
 
-🔗 **Live Demo**: [Click here to try the app now!](https://yourusername.github.io/theme-clock/)
+🔗 **Live Demo**: [Click here to try the app now!](https://garimaakashyap.github.io/Theme-Clock/)
 
 <p align="center">
   <img src="light.png" alt="Theme Clock Preview" width="600">
