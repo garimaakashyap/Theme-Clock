@@ -64,7 +64,7 @@ Follow these steps to run the project locally:
 ### 📁 Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/theme-clock.git
+git clone https://github.com/garimaakashyap/Theme-clock.git
 cd theme-clock
 ```
 ---
